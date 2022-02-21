@@ -11,6 +11,8 @@ Try it now [here](http://ness-commerce-front.vercel.app/)
 ```
 MONGO_URI=mongodb://localhost:27017
 PORT=5000
+JWT_SECRET= *secret-word, as you choose*
+JWT_EXPIRATION= *time to token expiration (seconds), as you wish*
 ```
 3. Install dependencies
 ```bash
