@@ -7,7 +7,7 @@ Try it now [here](http://ness-commerce-front.vercel.app/)
 ## How to run:
 
 1. Clone this project.
-2. Create a `.env` archive on folder project and set whats above on it:
+2. Create a `.env` archive on folder project and set whats below on it:
 ```
 MONGO_URI=mongodb://localhost:27017
 PORT=5000
